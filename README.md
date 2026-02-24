@@ -1,7 +1,7 @@
-# Smart Product Approval Manager (Demo Plugin)
+# Smart Product Approval Manager 
 
 This plugin creates a simple admin dashboard for approving/rejecting products via REST API.
-It's a demo plugin intended for interviews and learning.
+
 
 ## Installation
 1. Upload the `smart-product-approval-manager` folder to `wp-content/plugins/`.
